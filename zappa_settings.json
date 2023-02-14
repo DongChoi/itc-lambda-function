@@ -1,0 +1,24 @@
+{
+    "itc-background": {
+        "app_function": "app.app",
+        "profile_name": "ITC",
+        "project_name": "flask-job-appli",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-exjio256o",
+        "aws_region": "us-west-1",
+        "environment_variables": {
+            "ACCESS_KEY_ID": "AKIAWMC3GL5KFSX3GBVK" ,
+            "DATABASE_URL" : "postgresql:///image_time_capsule",
+            "PROGRAM_EMAIL" : "Imagetimecapsule2022@gmail.com",
+            "PROGRAM_EMAIL_PASSWORD" : "vksocnorygdqcwbh",
+            "RDS_DB_NAME" : "itc_first",
+            "RDS_HOSTNAME" : "image-time-capsule.cey3nevdhhzm.us-west-1.rds.amazonaws.com",
+            "RDS_PASSWORD" : "FosjHenGwn2017",
+            "RDS_PORT" : "5432",
+            "RDS_USERNAME" : "itc_admin",
+            "SECRET_ACCESS_KEY":"j25KOCt38tC7p25GyZCRzO2zMs5MWDxzXW5sloJR",
+            "SECRET_KEY_TOKEN" :"A1369SECRETTHAtmuStNotBeKnownHAHA",
+            "TOKEN_ALGORITHMS" : "HS256"
+        }
+    }
+}
